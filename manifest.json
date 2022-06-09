@@ -1,8 +1,8 @@
 {
-  "short_name": "PancakeSwap",
-  "name": "PancakeSwap",
-  "description": "Farm CAKE with Pancake LP Tokens",
-  "homepage_url": "https://pancakeswap.finance",
+  "short_name": "VizslaSwap",
+  "name": "VizslaSwap",
+  "description": "VizslaSwap is the decentralized exchange of the Hungarian Vizsla Inu (HVI) Ecosystem. Buy, Trade HVI or Partner tokens and stake them for best yields. All at one place. VizslaSwap – the simplest way to join the Vizsla Ecosystem.",
+  "homepage_url": "https://lottery.cryptochiptoken.com/",
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#1FC7D4",
